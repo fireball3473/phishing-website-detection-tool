@@ -1,0 +1,1 @@
+Browser extension that scans URLs and webpage content using machine learning to detect phishing attempts. Provides immediate warnings to users, reducing the risk of sensitive data theft and online fraud.
